@@ -93,11 +93,11 @@ Example:
 
 ## 6. Conclusion & Learnings
 
-Reflections on:
+As we finished this study, we discovered that local Metro Manila vendors and international references have notably different prices. Local retail pricing were typically higher due to distributor markups, taxes, and shipping, while international websites such as PCPartPicker frequently displayed cheaper baseline costs. This emphasized the necessity of denpending on local vendors to provide an accurate budget estimate.
 
-- Price differences (international vs. Manila vendors)
-- Challenges in finding stock or cheaper equivalents
-- What the group learned about PC components and system design
+We also encountered into issues with budget and availability because not all of the components were readily available or reasonably priced. this called for adaptability and thoughtful decision making to acheive balance between performance goals and actual market conditions.
+
+Through this project, our grouped developed a greater understanding of computer system design. We discovered how to assess components not just for performance but also for cost, practicality, and compatibility. Most importantly, the project taught us how to work within real-world limits by choosing wisely and making trade-offs.
 
 ---
 
@@ -107,7 +107,24 @@ Reflections on:
 
 ## 8. References
 
-- Vendor links (PCX, VillMan, etc.)
-- PCPartPicker build link
-- Any technical documentation consulted
-  Annotations
+https://ecommerce.datablitz.com.ph/products/intel-core-i9-14900k-14th-gen-3-2ghz-24-core-lga-1700-processor-bx8071514900k
+
+https://ecommerce.datablitz.com.ph/products/arctic-liquid-freezer-iii-pro-360-a-rgb-multi-compatible-aio-cpu-water-cooler-black-white
+
+https://ecommerce.datablitz.com.ph/products/msi-mag-z790-tomahawk-wifi-ddr5-motherboard
+
+https://ecommerce.datablitz.com.ph/products/corsair-dominator-titanium-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-grey-cmp64gx5m2b6000z30
+
+https://pcx.com.ph/products/western-digital-4tb-sn7100-m-2-pcie-nmve-solid-state-drive-black?_pos=3&_sid=41952325d&_ss=r
+
+https://ecommerce.datablitz.com.ph/products/wd-black-6tb-7200-rpm-256mb-cache-smr-3-5-sata-iii-gaming-hard-drive-wd6003fzbx
+
+https://www.pcworth.com/product/4be2bbbaa4a1?slug=geforce-rtx-5080-asus-prime-oc-16gb-gddr7-black-triple-fan
+
+https://ecommerce.datablitz.com.ph/collections/corsair-rme-series/products/corsair-rme-series-rm1000e-1000w-atx-3-0-80-gold-fully-modular-low-noise-power-supply-black
+
+https://ecommerce.datablitz.com.ph/products/fractal-design-meshify-c-atx-mid-tower-case-white-fd-ca-mesh-c-wt-tgc
+
+https://gameone.ph/lian-li-uni-fan-sl120-v2-rgb-3x-fan-pack-with-controller-black.html
+
+https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ
