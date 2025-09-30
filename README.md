@@ -1,7 +1,9 @@
 # Custom Desktop PC Build – Group 5
 
 **Course**: CSARCH2
+
 **Section**: S20
+
 **Group Members**:
 
 * Benigno, James Khalel
