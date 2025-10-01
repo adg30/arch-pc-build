@@ -50,7 +50,7 @@ This build was validated for baseline compatibility using the PCPartPicker Syste
 
 This build uses **locally available parts** from Manila-based vendors. All prices are accurate as of the time of research.
 
-**Google Spreadsheet Link:** [Group 5 - PC Build Sheet](https://docs.google.com/spreadsheets/d/1Rbp3u9lQN9IuhjtlI20biL8wxsPLDF-yt2c-lLwvh0A/edit?usp=sharing)
+**Google Spreadsheet Link:** [Group 5 - PC Build Sheet](https://docs.google.com/spreadsheets/d/1fvw2BcPDp4KBf0TdzCiku6UDXd0qcctDz3ZCUaP_g3I/edit?usp=sharing)
 
 ### Local Build Table
 
@@ -117,8 +117,8 @@ Our key learning was the critical importance of checking detailed physical speci
 
 ## 8. References
 
-* **PCPartPicker Build Link:** https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ
-* **Google Spreadsheet Link:** [https://docs.google.com/spreadsheets/d/1Rbp3u9lQN9IuhjtlI20biL8wxsPLDF-yt2c-lLwvh0A/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Rbp3u9lQN9IuhjtlI20biL8wxsPLDF-yt2c-lLwvh0A/edit?usp=sharing)
+* **PCPartPicker Build Link:** [https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ](https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ)
+* **Google Spreadsheet Link:** [https://docs.google.com/spreadsheets/d/1fvw2BcPDp4KBf0TdzCiku6UDXd0qcctDz3ZCUaP_g3I/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fvw2BcPDp4KBf0TdzCiku6UDXd0qcctDz3ZCUaP_g3I/edit?usp=sharing)
 * **Technical Reference Links:**
 
 
