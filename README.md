@@ -109,8 +109,11 @@ This build uses **locally available parts** from Manila-based vendors. All price
 This project gave us a realistic view of what it takes to design and source an Extreme Entry-Level Gaming PC within a fixed budget and using only locally available components in Manila.
 
 We learned several key lessons:
+
 **1. Balancing Performance and Budget:** Even though we had the "dream-like" budget for our PC, we still had to juggle costs as including the RTX 5090 would add an extra ~80k to the price, which in our case wasn't worth it as described in the justifications.
+
 **2. Vendor Availability Shapes Builds:** Component choices in the Philippines are often dictated by what local retailers have in stock, Even if a component exists internationally, local availability, warranty, and service support are critical for a successful build.
+
 **3. Future-Proofing vs Immediate Needs:** By selecting high-capacity DDR5 RAM, a 1200W PSU, and a spacious Meshify 2 case, we ensured the system won't just perform well today but will also support future upgrades in the next 3–5 years.
 
 In summary, this project showed us that PC building is much more complex than just picking the shiniest most powerful parts. Builders need to weigh cost, compatibility, availability, and future-proofing to deliver a stable machine.
