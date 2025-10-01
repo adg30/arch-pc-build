@@ -79,7 +79,7 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 * **RAM (Corsair Dominator Titanium 64GB DDR5):** A 64GB kit of high-speed DDR5 RAM was selected for ultimate future-proofing and extreme multitasking. 6000MT/s with a CL30 latency hits the "sweet spot" for performance on the Intel platform, ensuring fast data access for the CPU.
 
-* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The RTX 5080 is the centerpiece of this "extreme gaming" build, chosen for no-compromise 4K performance. Powered by the Blackwell architecture, its 16GB of GDDR7 memory provides the bandwidth for maximum settings in AAA titles. Crucially, the ASUS PRIME OC model was selected for its 304mm length, ensuring a perfect fit within the spacious Meshify 2 case. Normally we would've gone for the more powerful and expensive 5090, however all Manila-based vendors for it are out of stock.
+* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The RTX 5080 is the centerpiece of this "extreme gaming" build, chosen for no-compromise 4K performance. Powered by the Blackwell architecture, its 16GB of GDDR7 memory provides the bandwidth for maximum settings in AAA titles. Crucially, the ASUS PRIME OC model was selected for its 304mm length, ensuring a perfect fit within the spacious Meshify 2 case. We didn't choose the RTX 5090 due to its deminishing returns and steep price (double that of the 5080).
 
 * **Storage 1 (WD BLACK SN850X 4TB):** A high-capacity 4TB NVMe SSD was chosen as the primary drive for ultra-fast boot times and game loading, taking full advantage of the Z790 motherboard's PCIe Gen4 M.2 slots.
 
