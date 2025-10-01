@@ -16,9 +16,11 @@
 
 ## 1. Introduction
 
-This project aims to produce an **Intel-based Extreme-entry level gaming desktop computer** with a budget of **₱200,000**. The build is primarily intended for high-performance gaming, providing the ability to run contemporary titles effectively, while also meeting general-purpose computing requirements such as academic activities, productivity, and multimedia applications.
+This project aims to design an **Intel-based Extreme-entry level intel-based gaming desktop PC** with a budget target of **₱200,000**. The build focuses on providing high-performance 4K gaming while remaining practical for everyday tasks such as academic work, productivity, and multimedia use.
 
-Each component was carefully chosen to meet the budget constraints while ensuring compatibility, performance, and dependability. The goal of this build is to showcase a well-balanced system that meets the project's criteria and illustrates the proper application of computer architecture concepts in a practical setting.
+Our goal was not simply to assemble the most powerful machine possible, but to demonstrate how performance, compatibility, future-proofing, and local availability must be balanced under real-world constraints. By working with only Manila-based vendors, we accounted for pricing, sourcing, and warranty considerations that affect builders in the Philippines.
+
+This approach highlights the importance of strategic component selection in computer architecture: each part was chosen not just for raw power, but also for its ability to ensure system stability, upgrade paths, and long-term usability.
 
 ---
 
@@ -71,25 +73,25 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 ## 4. Technical & Compatibility Justification
 
-* **CPU (Intel Core i9-14900K):** Chosen for its class-leading single-core speeds, which maximize FPS in modern games. With 24 cores and 32 threads, it also handles heavy multitasking such as streaming and rendering. This ensures the CPU won’t bottleneck future GPUs, making it both powerful now and reliable for the next several years.
+* **CPU (Intel Core i9-14900K):** Intel's flagship 14th Gen consumer CPU was selected for its leading single-core speed, maximizing FPS in modern games. With 24 cores and 32 threads, it also supports heavy multitasking like streaming and content creation. This ensures the system can handle current workloads and won't bottleneck future GPU upgrades.
   
-* **Motherboard (MSI MAG Z790 Tomahawk):** Selected for its strong VRM power delivery, essential for the i9-14900K’s high power draw. It supports DDR5 memory, PCIe 5.0 GPUs and SSDs, and WiFi 6E, providing both stability today and upgrade paths for upcoming hardware generations.
+* **Motherboard (MSI MAG Z790 Tomahawk):** Chosen for its powerful VRM design and feature set, this Z790 board provides stable power delivery for the i9-14900K. It supports DDR5 memory, PCIe 5.0 GPUs and SSDs, and WiFi 6E. This makes it both stable for today's hardware and prepared for next-gen upgrades, aligning with the project's future-proofing goals.
 
-* **CPU Cooler (Arctic Liquid Freezer III 360):** A 360mm AIO liquid cooler is necessary to keep the i9-14900K’s high thermals under control. This prevents thermal throttling, maintains boost clock speeds, and ensures quieter, more stable long-term operation.
+* **CPU Cooler (Arctic Liquid Freezer III 360):** The i9-14900K generates significant heat, requiring high-end cooling. This 360mm AIO liquid cooler prevents thermal throttling and maintains boost clock speeds under load, ensuring sustained performance and system longevity.
 
-* **RAM (Corsair Dominator Titanium 64GB DDR5):** Offers both high frequency and low latency, optimizing performance on Intel’s platform. The 64GB capacity far exceeds current gaming requirements but provides future-proofing for large games, content creation, and multitasking workloads.
+* **RAM (Corsair Dominator Titanium 64GB DDR5):** With 6000MT/s speed and CL30 latency, this kit balances high frequency and low latency for optimal Intel performance. The 64GB capacity far exceeds current gaming needs but provides headroom for larger titles, professional workloads, and long-term use, making it a future-proof choice.
 
-* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The centerpiece of the build, the RTX 5080 delivers uncompromising 4K gaming performance, backed by NVIDIA’s latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090 because while the latter offers higher performance, it costs nearly double, giving diminishing returns for our “extreme entry-level” scope. 
+* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The build's centerpiece, the RTX 5080, provides no-compromise 4K gaming with NVIDIA's latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090, since while the latter is faster, it costs nearly double for only marginal gains in extreme gaming contexts. This aligns with the project's “extreme entry-level” scope and keeps the build within budget.
 
-* **Storage 1 (WD BLACK SN850X 4TB):** A top-tier Gen4 NVMe SSD with blazing 7300MB/s speeds, ensuring ultra-fast boot, game loads, and file transfers. Its 4TB capacity supports large modern game libraries and future storage demands without compromise.
+* **Storage 1 (WD BLACK SN850X 4TB):** A high-speed Gen4 NVMe SSD delivering up to 7300MB/s read speeds. Its 4TB capacity ensures space for large game libraries, applications, and media without compromising performance.
 
-* **Storage 2 (TeamGroup Vulcan Z 2TB):** Provides cost-effective secondary storage for games and media. While slower than NVMe, it’s still far faster than HDDs and avoids consuming valuable M.2 slots.
+* **Storage 2 (TeamGroup Vulcan Z 2TB):** Provides cost-effective secondary storage, ideal for less speed-sensitive data such as bulk games and media. Faster than HDDs, while preserving M.2 slots for potential future NVMe upgrades.
 
-* **Power Supply (Corsair RM1200x SHIFT 1200W):** Provides stable, efficient power delivery with ATX 3.0 and PCIe 5.0 readiness. Its 1200W capacity ensures stability even under peak GPU/CPU spikes and leaves headroom for future upgrades, making it safer than lower-wattage alternatives.
+* **Power Supply (Corsair RM1200x SHIFT 1200W):** This Gold-rated ATX 3.0 PSU ensures efficient, stable power delivery. Its 1200W capacity comfortably covers the i9-14900K and RTX 5080, leaving headroom for peak load spikes and future upgrades. The SHIFT side-mounted connector design also improves cable management.
 
-* **Case (Fractal Design Meshify 2):** Offers exceptional airflow and internal space, which is critical for cooling extreme-performance components. With a 467mm GPU clearance and support for a 360mm radiator, it comfortably fits the RTX 5080 and AIO cooler while leaving room for expansion.
+* **Case (Fractal Design Meshify 2):** Chosen for its exceptional airflow, spacious interior, and modern design. With 467mm GPU clearance and support for a 360mm radiator, it accommodates both the RTX 5080 and AIO cooler easily. This prevents airflow bottlenecks and ensures long-term flexibility for upgrades.
 
-* **Case Fans (Lian Li Uni):** Improve airflow beyond stock fans, keeping components cooler and quieter under load. Their daisy-chain design reduces cable clutter, and the included controller syncs RGB lighting for a cleaner, more premium look consistent with the extreme-tier build.
+* **Case Fans (Lian Li Uni):** Enhances airflow beyond stock fans, improving thermal stability during gaming and heavy workloads. Their daisy-chain design reduces clutter, while synchronized RGB adds a premium aesthetic consistent with the build's high-end theme.
 
 ---
 
@@ -98,15 +100,25 @@ This build uses **locally available parts** from Manila-based vendors. All price
 * **Budget Limit**: ₱200,000.00
 * **Final Total**: ₱205,555.00
 * **Result**: Within Budget ✅
-* **Notes**: The final cost is ₱5,555 over the base budget. This is compliant with the project requirement for our group, which allows for an overage of up to 5% (₱10,000). This slight overage was deemed a necessary trade-off to ensure the system's stability and longevity by selecting a high-wattage 1200W power supply and a spacious, high-airflow case, rather than compromising on the safety and cooling of the extreme-performance components.
+* **Notes**: Our build went slightly over budget by ₱5,555 (2.7%). This was an intentional decision to prioritize system stability and longevity. Instead of cutting costs by downgrading the power supply or case, we chose to invest in a 1200W PSU and spacious Meshify 2 case, which provide long-term value, safety, and upgrade flexibility.
+
+This reflects a real-world tradeoff that builders often face: sometimes the best-performing and most reliable system requires going slightly above the initial budget. In our case, the overage is within the project's 5% margin, making the decision both practical and justifiable.
 
 ---
 
 ## 6. Conclusion & Learnings
 
-This project provided significant insight into the challenges of building a PC in the Philippines. We learned that component selection is a balance between performance, compatibility, and budget, with local pricing and availability being major factors.
+This project gave us a realistic view of what it takes to design and source an Extreme Entry-Level Gaming PC within a fixed budget and using only locally available components in Manila.
 
-Our key learning was the critical importance of checking detailed physical specifications. We initially faced compatibility issues, first with a motherboard form factor mismatch and then with GPU length vs. case clearance. Solving these problems by upgrading to the Fractal Design Meshify 2 taught us that a well-chosen case is not only about aesthetics, but is a fundamental part of a successful and stress-free build. This process of identifying and correcting errors reinforced our understanding of computer architecture in a practical, hands-on manner.
+We learned several key lessons:
+1. Balancing Performance and Budget:
+2. Vendor Availability Shapes Builds:
+3. Future-Proofing vs Immediate Needs:
+4. ???
+
+
+In summary, this project showed us that PC building is much more complex than just picking the shiniest most powerful parts. Builders need to weigh cost, compatibility, availability, and future-proofing to deliver a stable machine.
+
 
 ---
 
@@ -117,9 +129,9 @@ Our key learning was the critical importance of checking detailed physical speci
 
 ## 8. References
 
+* **Technical Reference Links:**
 * **PCPartPicker Build Link:** [https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ](https://pcpartpicker.com/user/jbeniugn/saved/94dXYJ)
 * **Google Spreadsheet Link:** [https://docs.google.com/spreadsheets/d/1fvw2BcPDp4KBf0TdzCiku6UDXd0qcctDz3ZCUaP_g3I/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1fvw2BcPDp4KBf0TdzCiku6UDXd0qcctDz3ZCUaP_g3I/edit?usp=sharing)
-* **Technical Reference Links:**
 
 
 * **Vendor Links:**
@@ -132,9 +144,9 @@ https://ecommerce.datablitz.com.ph/products/msi-mag-z790-tomahawk-wifi-ddr5-moth
 
 https://ecommerce.datablitz.com.ph/products/corsair-dominator-titanium-rgb-64gb-2x32gb-ddr5-dram-6000mt-s-cl30-amd-expo-intel-xmp-memory-kit-grey-cmp64gx5m2b6000z30
 
-https://pcx.com.ph/products/western-digital-4tb-sn7100-m-2-pcie-nmve-solid-state-drive-black?_pos=3&_sid=41952325d&_ss=r
+https://ecommerce.datablitz.com.ph/products/wd-black-sn850x-4tb-nvme-pcie-gen4-x4-m-2-2280-7300mb-s-read-speed-internal-gaming-ssd-without-heatsink-wds400t2x0e
 
-https://ecommerce.datablitz.com.ph/products/wd-black-6tb-7200-rpm-256mb-cache-smr-3-5-sata-iii-gaming-hard-drive-wd6003fzbx
+https://ecommerce.datablitz.com.ph/products/teamgroup-t-force-vulcan-z-2tb-2-5-sata-iii-3d-nand-internal-ssd-t253tz002t0c101
 
 https://www.pcworth.com/product/4be2bbbaa4a1?slug=geforce-rtx-5080-asus-prime-oc-16gb-gddr7-black-triple-fan
 
