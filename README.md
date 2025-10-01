@@ -73,25 +73,41 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 ## 4. Technical & Compatibility Justification
 
-* **CPU (Intel Core i9-14900K):** Intel's flagship 14th Gen consumer CPU was selected for its leading single-core speed, maximizing FPS in modern games. With 24 cores and 32 threads, it also supports heavy multitasking like streaming and content creation. This ensures the system can handle current workloads and won't bottleneck future GPU upgrades.
+### CPU (Intel Core i9-14900K):
+*  Intel's flagship 14th Gen consumer CPU was selected for its leading single-core speed, maximizing FPS in modern games. With 24 cores and 32 threads, it also supports heavy multitasking like streaming and content creation. This ensures the system can handle current workloads and won't bottleneck future GPU upgrades.
+
+* The unlocked multiplier allows for future overclocking, while support for DDR5 and PCIe 5.0 ensures compatibility with next-generation hardware. Although power-hungry, its performance is unmatched for this budget, and the rest of the system (cooling and PSU) was chosen to accommodate it.
   
-* **Motherboard (MSI MAG Z790 Tomahawk):** Chosen for its powerful VRM design and feature set, this Z790 board provides stable power delivery for the i9-14900K. It supports DDR5 memory, PCIe 5.0 GPUs and SSDs, and WiFi 6E. This makes it both stable for today's hardware and prepared for next-gen upgrades, aligning with the project's future-proofing goals.
+### Motherboard (MSI MAG Z790 Tomahawk):
+* Chosen for its powerful VRM design and feature set, this Z790 board provides stable power delivery for the i9-14900K. It supports DDR5 memory, PCIe 5.0 GPUs and SSDs, and WiFi 6E.
+* We deliberately avoided higher-end motherboards because this board already offers everything needed for stability, expansion, and performance, allowing more of the budget to be spent on the GPU and PSU. This strikes the right balance between cost and capability.
 
-* **CPU Cooler (Arctic Liquid Freezer III 360):** The i9-14900K generates significant heat, requiring high-end cooling. This 360mm AIO liquid cooler prevents thermal throttling and maintains boost clock speeds under load, ensuring sustained performance and system longevity.
+### CPU Cooler (Arctic Liquid Freezer III 360):
+* The i9-14900K generates significant heat, requiring high-end cooling. This 360mm AIO liquid cooler prevents thermal throttling and maintains boost clock speeds under load, ensuring sustained performance and system longevity.
+* We selected the 360mm version over a larger 420mm for cost-effectiveness and compatibility with the Meshify 2 case, while still providing high thermal headroom.
 
-* **RAM (Corsair Dominator Titanium 64GB DDR5):** With 6000MT/s speed and CL30 latency, this kit balances high frequency and low latency for optimal Intel performance. The 64GB capacity far exceeds current gaming needs but provides headroom for larger titles, professional workloads, and long-term use, making it a future-proof choice.
+### RAM (Corsair Dominator Titanium 64GB DDR5):
+* With 6000MT/s speed and CL30 latency, this kit balances high frequency and low latency for optimal Intel performance. The 64GB capacity far exceeds current gaming needs but provides headroom for larger titles, professional workloads, and long-term use, making it a future-proof choice.
+* The Dominator Titanium line is also known for reliability and stable XMP tuning, ensuring consistent performance (and also why we chose it over the others).
 
-* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The build's centerpiece, the RTX 5080, provides no-compromise 4K gaming with NVIDIA's latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090, since while the latter is faster, it costs nearly double for only marginal gains in extreme gaming contexts. This aligns with the project's “extreme entry-level” scope and keeps the build within budget.
+### GPU (GEFORCE RTX 5080 ASUS PRIME OC):
+* The build's centerpiece, the RTX 5080, provides no-compromise 4K gaming with NVIDIA's latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090, since while the latter is faster, it costs nearly double for only marginal gains in extreme gaming contexts. This aligns with the project's “extreme entry-level” scope and keeps the build within budget.
+* The ASUS PRIME OC edition provides a high-end triple-fan cooling design that maintains lower noise and temperatures, ensuring stability during long gaming sessions.
 
-* **Storage 1 (WD BLACK SN850X 4TB):** A high-speed Gen4 NVMe SSD delivering up to 7300MB/s read speeds. Its 4TB capacity ensures space for large game libraries, applications, and media without compromising performance.
+### Storage 1 (WD BLACK SN850X 4TB):
+* A high-speed Gen4 NVMe SSD delivering up to 7300MB/s read speeds. Its 4TB capacity ensures space for large game libraries, applications, and media without compromising performance.
+* We opted against PCIe 5.0 drives, as the real-world gains are minimal for significantly higher cost, making the SN850X the most cost-effective high-end choice.
 
-* **Storage 2 (TeamGroup Vulcan Z 2TB):** Provides cost-effective secondary storage, ideal for less speed-sensitive data such as bulk games and media. Faster than HDDs, while preserving M.2 slots for potential future NVMe upgrades.
+### Storage 2 (TeamGroup Vulcan Z 2TB):
+* Provides cost-effective secondary storage, ideal for less speed-sensitive data such as bulk games and media. Faster than HDDs, while preserving M.2 slots for potential future NVMe upgrades.
 
-* **Power Supply (Corsair RM1200x SHIFT 1200W):** This Gold-rated ATX 3.0 PSU ensures efficient, stable power delivery. Its 1200W capacity comfortably covers the i9-14900K and RTX 5080, leaving headroom for peak load spikes and future upgrades. The SHIFT side-mounted connector design also improves cable management.
+### Power Supply (Corsair RM1200x SHIFT 1200W):
+* This Gold-rated ATX 3.0 PSU ensures efficient, stable power delivery. Although PCPartPicker estimated an 800W requirement, we chose a 1200W Gold-rated ATX 3.0 unit to provide headroom for power spikes, ensure GPU/CPU stability, and allow for future upgrades.
+* Compared to the cheaper RM1000e, the RM1200x offers quieter operation, longer warranty, and higher capacity — a safer long-term investment. The SHIFT side-mounted connector design also improves cable management inside the Meshify 2.
 
 * **Case (Fractal Design Meshify 2):** Chosen for its exceptional airflow, spacious interior, and modern design. With 467mm GPU clearance and support for a 360mm radiator, it accommodates both the RTX 5080 and AIO cooler easily. This prevents airflow bottlenecks and ensures long-term flexibility for upgrades.
 
-* **Case Fans (Lian Li Uni):** Enhances airflow beyond stock fans, improving thermal stability during gaming and heavy workloads. Their daisy-chain design reduces clutter, while synchronized RGB adds a premium aesthetic consistent with the build's high-end theme.
+* **Case Fans (Lian Li Uni):** While not strictly required for thermals (what we have is probably overkill), we chose the Lian Li Uni fans for their airflow optimization and clean daisy-chain cabling, which improves build quality and aesthetics.
 
 ---
 
@@ -99,7 +115,7 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 * **Budget Limit**: ₱200,000.00
 * **Final Total**: ₱205,555.00
-* **Result**: Within Budget ✅
+* **Result**: Over Budget, but Compliant ✅
 * **Notes**: Our build went slightly over budget by ₱5,555 (2.7%). This was an intentional decision to prioritize system stability and longevity. Instead of cutting costs by downgrading the power supply or case, we chose to invest in a 1200W PSU and spacious Meshify 2 case, which provide long-term value, safety, and upgrade flexibility. In our case, the overage is within the project's 5% margin, making the decision both practical and justifiable.
 
 ---
