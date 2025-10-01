@@ -71,25 +71,25 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 ## 4. Technical & Compatibility Justification
 
-* **CPU (Intel Core i9-14900K):** The i9-14900K was chosen as it is Intel's flagship consumer processor, offering the highest single-core clock speeds essential for maximum FPS in gaming. Its 24 cores and 32 threads also provide massive multi-core performance for streaming or content creation, fitting the "extreme" build requirement.
+* **CPU (Intel Core i9-14900K):** Chosen for its class-leading single-core speeds, which maximize FPS in modern games. With 24 cores and 32 threads, it also handles heavy multitasking such as streaming and rendering. This ensures the CPU won’t bottleneck future GPUs, making it both powerful now and reliable for the next several years.
+  
+* **Motherboard (MSI MAG Z790 Tomahawk):** Selected for its strong VRM power delivery, essential for the i9-14900K’s high power draw. It supports DDR5 memory, PCIe 5.0 GPUs and SSDs, and WiFi 6E, providing both stability today and upgrade paths for upcoming hardware generations.
 
-* **Motherboard (MSI MAG Z790 Tomahawk):** This Z790 motherboard offers strong power delivery (VRMs) necessary to handle the high power draw of the i9-14900K. It features the required LGA 1700 socket, DDR5 RAM support, and a PCIe 5.0 x16 slot to provide maximum bandwidth for a top-tier graphics card.
+* **CPU Cooler (Arctic Liquid Freezer III 360):** A 360mm AIO liquid cooler is necessary to keep the i9-14900K’s high thermals under control. This prevents thermal throttling, maintains boost clock speeds, and ensures quieter, more stable long-term operation.
 
-* **CPU Cooler (Arctic Liquid Freezer III 360):** The i9-14900K is known to produce significant heat. As such, 360mm AIO liquid cooler is required for effective thermal management, preventing performance throttling and allowing the CPU to maintain its high boost clocks.
+* **RAM (Corsair Dominator Titanium 64GB DDR5):** Offers both high frequency and low latency, optimizing performance on Intel’s platform. The 64GB capacity far exceeds current gaming requirements but provides future-proofing for large games, content creation, and multitasking workloads.
 
-* **RAM (Corsair Dominator Titanium 64GB DDR5):** A 64GB kit of high-speed DDR5 RAM was selected for ultimate future-proofing and extreme multitasking. 6000MT/s with a CL30 latency hits the "sweet spot" for performance on the Intel platform, ensuring fast data access for the CPU.
+* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The centerpiece of the build, the RTX 5080 delivers uncompromising 4K gaming performance, backed by NVIDIA’s latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090 because while the latter offers higher performance, it costs nearly double, giving diminishing returns for our “extreme entry-level” scope. 
 
-* **GPU (GEFORCE RTX 5080 ASUS PRIME OC):** The RTX 5080 is the centerpiece of this "extreme gaming" build, chosen for no-compromise 4K performance. Powered by the Blackwell architecture, its 16GB of GDDR7 memory provides the bandwidth for maximum settings in AAA titles. Crucially, the ASUS PRIME OC model was selected for its 304mm length, ensuring a perfect fit within the spacious Meshify 2 case. We didn't choose the RTX 5090 due to its deminishing returns and steep price (double that of the 5080).
+* **Storage 1 (WD BLACK SN850X 4TB):** A top-tier Gen4 NVMe SSD with blazing 7300MB/s speeds, ensuring ultra-fast boot, game loads, and file transfers. Its 4TB capacity supports large modern game libraries and future storage demands without compromise.
 
-* **Storage 1 (WD BLACK SN850X 4TB):** A high-capacity 4TB NVMe SSD was chosen as the primary drive for ultra-fast boot times and game loading, taking full advantage of the Z790 motherboard's PCIe Gen4 M.2 slots.
+* **Storage 2 (TeamGroup Vulcan Z 2TB):** Provides cost-effective secondary storage for games and media. While slower than NVMe, it’s still far faster than HDDs and avoids consuming valuable M.2 slots.
 
-* **Storage 2 (TeamGroup Vulcan Z 2TB):** A 2TB SATA SSD provides a cost-effective solution for mass storage, housing a large library of games or media files without occupying a primary M.2 slot.
+* **Power Supply (Corsair RM1200x SHIFT 1200W):** Provides stable, efficient power delivery with ATX 3.0 and PCIe 5.0 readiness. Its 1200W capacity ensures stability even under peak GPU/CPU spikes and leaves headroom for future upgrades, making it safer than lower-wattage alternatives.
 
-* **Power Supply (Corsair RM1200x SHIFT 1200W):** A 1200W Gold-rated PSU was selected to safely and efficiently power the high-wattage i9-14900K and RTX 5080. This provides ample headroom for peak power spikes and ensures system stability, which a lower-wattage unit could not guarantee.
+* **Case (Fractal Design Meshify 2):** Offers exceptional airflow and internal space, which is critical for cooling extreme-performance components. With a 467mm GPU clearance and support for a 360mm radiator, it comfortably fits the RTX 5080 and AIO cooler while leaving room for expansion.
 
-* **Case (Fractal Design Meshify 2):** The Meshify 2 was strategically selected to prioritize superior airflow and spacious component compatibility. A critical factor was its massive 467mm GPU clearance, which easily accommodates our RTX 5080 and ensures excellent airflow around the system's most powerful components.
-
-* **Case Fans (Lian Li Uni):** The Lian Li Uni Fan pack was selected to elevate the system's cooling and aesthetics beyond the stock configuration. These premium fans will be configured to maximize directed airflow across all critical components. Aesthetically, their unique daisy-chain system reduces cable clutter and the included controller synchronizes the RGB lighting, creating a clean, visually cohesive look that is appropriate for a premium, "extreme-tier" build.
+* **Case Fans (Lian Li Uni):** Improve airflow beyond stock fans, keeping components cooler and quieter under load. Their daisy-chain design reduces cable clutter, and the included controller syncs RGB lighting for a cleaner, more premium look consistent with the extreme-tier build.
 
 ---
 
