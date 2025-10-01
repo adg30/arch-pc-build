@@ -91,7 +91,7 @@ This build uses **locally available parts** from Manila-based vendors. All price
 * The Dominator Titanium line is also known for reliability and stable XMP tuning, ensuring consistent performance (and also why we chose it over the others).
 
 ### GPU (GEFORCE RTX 5080 ASUS PRIME OC):
-* The build's centerpiece, the RTX 5080, provides no-compromise 4K gaming with NVIDIA's latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090, since while the latter is faster, it costs nearly double for only marginal gains in extreme gaming contexts. This aligns with the project's “extreme entry-level” scope and keeps the build within budget.
+* The build's centerpiece, the RTX 5080, provides no-compromise 4K gaming with NVIDIA's latest Blackwell architecture and 16GB of fast GDDR7 VRAM. We chose the 5080 over the 5090, since while the latter is faster, it costs nearly double for only marginal gains in extreme gaming contexts. This aligns with the project's "extreme entry-level" scope and keeps the build within budget.
 * The ASUS PRIME OC edition provides a high-end triple-fan cooling design that maintains lower noise and temperatures, ensuring stability during long gaming sessions.
 
 ### Storage 1 (WD BLACK SN850X 4TB):
@@ -105,9 +105,11 @@ This build uses **locally available parts** from Manila-based vendors. All price
 * This Gold-rated ATX 3.0 PSU ensures efficient, stable power delivery. Although PCPartPicker estimated an 800W requirement, we chose a 1200W Gold-rated ATX 3.0 unit to provide headroom for power spikes, ensure GPU/CPU stability, and allow for future upgrades.
 * Compared to the cheaper RM1000e, the RM1200x offers quieter operation, longer warranty, and higher capacity — a safer long-term investment. The SHIFT side-mounted connector design also improves cable management inside the Meshify 2.
 
-* **Case (Fractal Design Meshify 2):** Chosen for its exceptional airflow, spacious interior, and modern design. With 467mm GPU clearance and support for a 360mm radiator, it accommodates both the RTX 5080 and AIO cooler easily. This prevents airflow bottlenecks and ensures long-term flexibility for upgrades.
+### Case (Fractal Design Meshify 2):
+Chosen for its exceptional airflow, spacious interior, and modern design. With 467mm GPU clearance and support for a 360mm radiator, it accommodates both the RTX 5080 and AIO cooler easily. This prevents airflow bottlenecks and ensures long-term flexibility for upgrades.
 
-* **Case Fans (Lian Li Uni):** While not strictly required for thermals (what we have is probably overkill), we chose the Lian Li Uni fans for their airflow optimization and clean daisy-chain cabling, which improves build quality and aesthetics.
+### Case Fans (Lian Li Uni): 
+While not strictly required for thermals (what we have is probably overkill), we chose the Lian Li Uni fans for their airflow optimization and clean daisy-chain cabling, which improves build quality and aesthetics.
 
 ---
 
