@@ -128,7 +128,7 @@ While not strictly required for thermals (what we have is probably overkill), we
 - **Budget Limit**: ₱200,000.00
 - **Final Total**: ₱206,700.00
 - **Result**: Over Budget, but Compliant ✅
-- **Notes**: Our build went slightly over budget by ₱5,555 (2.7%). This was an intentional decision to prioritize system stability and longevity. Instead of cutting costs by downgrading the power supply or case, we chose to invest in a 1200W PSU and spacious Meshify 2 case, which provide long-term value, safety, and upgrade flexibility. In our case, the overage is within the project's 5% margin, making the decision both practical and justifiable.
+- **Notes**: Our build went slightly over budget by ₱6,700 (3.3%). This was an intentional decision to prioritize system stability and longevity. Instead of cutting costs by downgrading the power supply or case, we chose to invest in a 1200W PSU and spacious Meshify 2 case, which provide long-term value, safety, and upgrade flexibility. In our case, the overage is within the project's 5% margin, making the decision both practical and justifiable.
 
 ---
 
