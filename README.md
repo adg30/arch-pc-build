@@ -152,6 +152,11 @@ In summary, this project showed us that PC building is much more complex than ju
 
 [video link](https://www.youtube.com/watch?v=yHbjKz6Ath0)
 
+
+note the budget in the video is wrong as the price of the cpu increased after the video was made; 
+
+our total price changed from 205,555 -> 206,700 (still within overage limit), which we believe didnt necessitate a redo of the video
+
 ---
 
 ## 8. References
