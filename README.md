@@ -16,7 +16,7 @@
 
 ## 1. Introduction
 
-This project aims to design an **Intel-based Extreme-entry level intel-based gaming desktop PC** with a budget target of **₱200,000**. The build focuses on providing high-performance 4K gaming while remaining practical for everyday tasks such as academic work, productivity, and multimedia use.
+This project aims to design an **Extreme-entry level intel-based gaming desktop PC** with a budget target of **₱200,000**. The build focuses on providing high-performance 4K gaming while remaining practical for everyday tasks such as academic work, productivity, and multimedia use.
 
 Our goal was not simply to assemble the most powerful machine possible, but to demonstrate how performance, compatibility, future-proofing, and local availability must be balanced under real-world constraints. By working with only Manila-based vendors, we accounted for pricing, sourcing, and warranty considerations that affect builders in the Philippines.
 
