@@ -44,7 +44,7 @@ This build was validated for baseline compatibility using the PCPartPicker Syste
 | Power Supply  | Corsair RM1200x SHIFT 1200W 80+ GOLD                            | 12,780      |
 | Case          | Fractal Design Meshify 2 ATX Mid-Tower                          | 10,995      |
 | Case Fans     | Lian Li Uni Fan SL120 V2 RGB 3-Pack                             | 4,995       |
-| **Total**     |                                                                 | **205,555** |
+| **Total**     |                                                                 | **206,700** |
 
 ---
 
@@ -126,7 +126,7 @@ While not strictly required for thermals (what we have is probably overkill), we
 ## 5. Budget Analysis
 
 - **Budget Limit**: ₱200,000.00
-- **Final Total**: ₱205,555.00
+- **Final Total**: ₱206,700.00
 - **Result**: Over Budget, but Compliant ✅
 - **Notes**: Our build went slightly over budget by ₱5,555 (2.7%). This was an intentional decision to prioritize system stability and longevity. Instead of cutting costs by downgrading the power supply or case, we chose to invest in a 1200W PSU and spacious Meshify 2 case, which provide long-term value, safety, and upgrade flexibility. In our case, the overage is within the project's 5% margin, making the decision both practical and justifiable.
 
