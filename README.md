@@ -34,7 +34,7 @@ This build was validated for baseline compatibility using the PCPartPicker Syste
 
 | Component     | Model                                                           | Price (Php) |
 | ------------- | --------------------------------------------------------------- | ----------- |
-| CPU           | Intel Core i9-14900K                                            | 28,850      |
+| CPU           | Intel Core i9-14900K                                            | 29,995      |
 | CPU Cooler    | Arctic Liquid Freezer III 360 A-RGB                             | 5,795       |
 | Motherboard   | MSI MAG Z790 Tomahawk WiFi DDR5                                 | 18,450      |
 | RAM           | Corsair Dominator Titanium RGB 64GB (2x32GB) DDR5 6000MT/s CL30 | 18,995      |
