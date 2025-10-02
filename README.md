@@ -140,7 +140,7 @@ In summary, this project showed us that PC building is much more complex than ju
 ---
 
 ## 7. Video Pitch
-[video link](https://youtu.be/xvFZjo5PgG0?si=H9gTJ0QG7EDLhnt1)
+[video link](https://www.youtube.com/watch?v=yHbjKz6Ath0)
 
 ---
 
