@@ -103,7 +103,7 @@ This build uses **locally available parts** from Manila-based vendors. All price
 
 ### Power Supply (Corsair RM1200x SHIFT 1200W):
 * This Gold-rated ATX 3.0 PSU ensures efficient, stable power delivery. Although PCPartPicker estimated an 800W requirement, we chose a 1200W Gold-rated ATX 3.0 unit to provide headroom for power spikes, ensure GPU/CPU stability, and allow for future upgrades.
-* Compared to the cheaper RM1000e, the RM1200x offers quieter operation, longer warranty, and higher capacity — a safer long-term investment. The SHIFT side-mounted connector design also improves cable management inside the Meshify 2.
+* Compared to the cheaper RM1000e, the RM1200x offers quieter operation, longer warranty, and higher capacity -- a safer long-term investment. The SHIFT side-mounted connector design also improves cable management inside the Meshify 2.
 
 ### Case (Fractal Design Meshify 2):
 Chosen for its exceptional airflow, spacious interior, and modern design. With 467mm GPU clearance and support for a 360mm radiator, it accommodates both the RTX 5080 and AIO cooler easily. This prevents airflow bottlenecks and ensures long-term flexibility for upgrades.
@@ -140,7 +140,7 @@ In summary, this project showed us that PC building is much more complex than ju
 ---
 
 ## 7. Video Pitch
-[video link](https://youtu.be/dQw4w9WgXcQ)
+[video link](https://youtu.be/xvFZjo5PgG0?si=H9gTJ0QG7EDLhnt1)
 
 ---
 
